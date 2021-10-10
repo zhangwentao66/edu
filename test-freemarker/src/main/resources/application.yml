@@ -1,0 +1,7 @@
+server:
+  port: 8888
+spring:
+  freemarker:
+    cache: false  #关闭模板缓存，方便测试
+    settings:
+      template_update_delay: 0

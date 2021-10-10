@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d57a5f8c-372b-4452-a121-3379f89e9a01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../yh-service-manage-cms/src/main/java/com/yh/cms/service/CmsPageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-gateway/huiminpay-gateway-service/huiminpay-gateway-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-gateway/huiminpay-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/java/com/huiminpay/merchant/controller/PayChannelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/java/com/huiminpay/merchant/controller/PayChannelParamController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/java/com/huiminpay/merchant/controller/PlatformChannelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-transaction/huiminpay-transaction-api/src/main/java/com/huiminpay/transaction/api/service/PayChannelParamServiceApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-transaction/huiminpay-transaction-api/src/main/java/com/huiminpay/transaction/api/service/PayChannelServiceApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-transaction/huiminpay-transaction-service/src/main/java/com/huiminpay/transaction/service/PayChannelParamServiceApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-transaction/huiminpay-transaction-service/src/main/java/com/huiminpay/transaction/service/PayChannelServiceApiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-uaa/huiminpay-uaa-api/huiminpay-uaa-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-uaa/huiminpay-uaa-service/huiminpay-uaa-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-uaa/huiminpay-uaa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-user/huiminpay-user-api/huiminpay-user-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-user/huiminpay-user-service/huiminpay-user-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-user/huiminpay-user-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-user/huiminpay-user.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../huiminpay/test-freemarker/src/main/java/cn/yunhe/bean/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay-/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay-/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-common/src/main/java/com/huiminpay/common/cache/util/QRCodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-common/src/main/java/com/huiminpay/common/cache/util/QRCodeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-common/target/classes/META-INF/huiminpay-common.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-common/target/classes/com/huiminpay/common/cache/util/QRCodeUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-common/target/classes/com/huiminpay/common/cache/util/QRCodeUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/huiminpay-merchant-application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/huiminpay-merchant-application.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/java/com/huiminpay/merchant/config/SwaggerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/java/com/huiminpay/merchant/config/SwaggerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/java/com/huiminpay/merchant/controller/MerchantController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/java/com/huiminpay/merchant/controller/MerchantController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/java/com/huiminpay/merchant/service/MerchantService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/java/com/huiminpay/merchant/service/MerchantService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/target/classes/com/huiminpay/merchant/config/SwaggerConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/target/classes/com/huiminpay/merchant/config/SwaggerConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/target/classes/com/huiminpay/merchant/controller/MerchantController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/target/classes/com/huiminpay/merchant/controller/MerchantController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/target/classes/com/huiminpay/merchant/service/MerchantService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/target/classes/com/huiminpay/merchant/service/MerchantService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/target/generated-sources/annotations/com/huiminpay/merchant/convert/MerchantRegisterConvertImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant-application/target/generated-sources/annotations/com/huiminpay/merchant/convert/MerchantRegisterConvertImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/src/main/java/com/huiminpay/merchant/api/AppService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/src/main/java/com/huiminpay/merchant/api/AppService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/src/main/java/com/huiminpay/merchant/api/MerchantServiceApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/src/main/java/com/huiminpay/merchant/api/MerchantServiceApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/src/main/java/com/huiminpay/merchant/dto/MerchantDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/src/main/java/com/huiminpay/merchant/dto/MerchantDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/classes/com/huiminpay/merchant/api/AppServiceApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/classes/com/huiminpay/merchant/api/StaffServiceApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/classes/com/huiminpay/merchant/api/StaffServiceApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/classes/com/huiminpay/merchant/api/StoreServiceApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/classes/com/huiminpay/merchant/api/StoreServiceApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/classes/com/huiminpay/merchant/dto/MerchantDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/classes/com/huiminpay/merchant/dto/MerchantDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/huiminpay-merchant-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/huiminpay-merchant-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/huiminpay-merchant-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/src/main/java/com/huiminpay/merchant/convert/AppConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/src/main/java/com/huiminpay/merchant/convert/AppConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/src/main/java/com/huiminpay/merchant/service/AppServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/src/main/java/com/huiminpay/merchant/service/AppServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/src/main/java/com/huiminpay/merchant/service/MerchantService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/src/main/java/com/huiminpay/merchant/service/MerchantService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/target/classes/com/huiminpay/merchant/convert/AppConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/target/classes/com/huiminpay/merchant/convert/AppConvert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/target/classes/com/huiminpay/merchant/service/AppServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/target/classes/com/huiminpay/merchant/service/AppServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/target/classes/com/huiminpay/merchant/service/MerchantService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/target/classes/com/huiminpay/merchant/service/MerchantService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/target/generated-sources/annotations/com/huiminpay/merchant/convert/AppConvertImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/target/generated-sources/annotations/com/huiminpay/merchant/convert/AppConvertImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/target/generated-sources/annotations/com/huiminpay/merchant/convert/MerchantConvertImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/huiminpay-merchant/huiminpay-merchant-service/target/generated-sources/annotations/com/huiminpay/merchant/convert/MerchantConvertImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/logs/${project.name}_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/logs/${project.name}_error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/logs/${project.name}_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/logs/${project.name}_info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/logs/2021-09-07/${project.name}_error.2021-09-07- 13.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/logs/2021-09-07/${project.name}_error.2021-09-07- 13.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/logs/2021-09-07/${project.name}_info.2021-09-07- 13.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/logs/2021-09-07/${project.name}_info.2021-09-07- 13.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/logs/2021-09-07/${project.name}_info.2021-09-07-13.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/logs/2021-09-07/${project.name}_info.2021-09-07-13.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/logs/huiminpay-transaction-service_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/logs/huiminpay-transaction-service_error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/logs/huiminpay-transaction-service_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/logs/huiminpay-transaction-service_info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../huiminpay/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../huiminpay/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1087993967">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft\developsoft\maven\repository" />
+        <option name="mavenHome" value="D:/soft/developsoft/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\soft\developsoft\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="345" />
+    <option name="y" value="24" />
+    <option name="width" value="1725" />
+    <option name="height" value="1509" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../xzs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d57a5f8c-372b-4452-a121-3379f89e9a01" name="Default Changelist" comment="" />
+      <created>1632837400237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632837400237</updated>
+      <workItem from="1632837403128" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1721" height="1041" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16416116" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
